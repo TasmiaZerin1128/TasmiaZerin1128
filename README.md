@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tasmiazerin1128.github.io/](https://tasmiazerin1128.github.io/)
 
-- 💬 Ask me about **vue, unity**
+- 💬 Ask me about **angular, unity**
 
 - 📫 How to reach me **tasmia.zerin.60@gmail.com**
 
