@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tasmiazerin1128.github.io/](https://tasmiazerin1128.github.io/)
 
-- 💬 Ask me about **full-stack, unity, illustrator (I know it's different than the others 😅**
+- 💬 Ask me about **full-stack, unity, illustrator (I know it's different than the others 😅)**
 
 - 📫 How to reach me **tasmia.zerin.60@gmail.com**
 
