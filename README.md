@@ -10,11 +10,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" alt="GIF" height="250px" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" />
 
-- 🌱 I’m currently learning **Front end & Back end frameworks**
+- 🌱 I’m currently working on **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://tasmiazerin1128.github.io/](https://tasmiazerin1128.github.io/)
 
-- 💬 Ask me about **angular, unity**
+- 💬 Ask me about **full-stack, unity, illustrator (I know it's different than the others 😅**
 
 - 📫 How to reach me **tasmia.zerin.60@gmail.com**
 
