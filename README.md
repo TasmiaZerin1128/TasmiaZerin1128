@@ -25,12 +25,6 @@
 <br>
 <p align="left">
 
-## Make a Connection!
-<a href="https://www.linkedin.com/in/tasmiazerin1128/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/6d3f823d-88de-4e66-8160-4f0f697c5f0d" alt="c" width="20" height="20"/> </a>
-
-<br>
-<p align="left">
-
 ## 🛠️ Languages and Tools
   
 <p align="left"> 
